@@ -1,4 +1,4 @@
-# -Mini-Audio-Amplifier
+# Project1-Mini-Audio-Amplifier
 
 # Description
 A compact soldered mini amplifier using the LM386 IC capable of amplifying audio from mobile phones or laptops into a small speaker output.
