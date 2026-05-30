@@ -21,5 +21,4 @@ A compact soldered mini amplifier using the LM386 IC capable of amplifying audio
 - Circuit Soldering
 
 # Picture/Screenshot
-<img width="720" height="1640" alt="954ceeed-999e-445f-9d7c-a5daeec0e35c" src="https://github.com/user-attachments/assets/45100882-577d-4955-a89c-c2d4c67164a7" />
-
+<img width="762" height="1093" alt="29f7bc76-e333-4ece-bb7b-ba950a67b98f" src="https://github.com/user-attachments/assets/12061d3b-c624-4aeb-a9a2-83238f916abb" />
